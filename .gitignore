@@ -1,0 +1,8 @@
+*build*
+*a.out
+*.vscode*
+*.antlr*
+*/parser/*
+!**/CMakeLists.txt
+
+*expr-ast-antlr
